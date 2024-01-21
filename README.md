@@ -1,6 +1,6 @@
-# latihan3
+# Project Clone Whatsapp
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
